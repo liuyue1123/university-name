@@ -1,7 +1,7 @@
 
 [
 	{	
-		"id":1031,
+		"id":1000,
 		"name":"测试大学",
 		"pinyin":"CeShiDaXue"
 	},
