@@ -1,6 +1,11 @@
 
 [
 	{	
+		"id":1031,
+		"name":"测试大学",
+		"pinyin":"CeShiDaXue"
+	},
+	{	
 		"id":1032,
 		"name":"北京大学",
 		"pinyin":"BeiJingDaXue"
